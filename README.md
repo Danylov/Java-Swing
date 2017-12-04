@@ -1,2 +1,2 @@
-# JavaSwing_ForFaifly
+# JavaSwing
 Project with use Java Swing technology
